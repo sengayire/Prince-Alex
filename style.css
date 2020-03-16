@@ -1,0 +1,9 @@
+img{
+    max-width: 100%;
+    position: inline;
+    display:block;
+    margin:auto;
+}
+#img-caption{
+    text-align: center;
+}
